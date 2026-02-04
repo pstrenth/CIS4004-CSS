@@ -4,7 +4,7 @@ body {
     color: black;
 }
 
-/* Main page title styling */
+/* Heading style */ 
 h1 {
     text-align: center;
     font-size: 44px;
@@ -12,21 +12,21 @@ h1 {
     margin-bottom: 21px;
 }
 
-/* Subsection heading styling */
+
 h2 {
     font-size: 27px;
     font-weight: bold;
     margin-bottom: 20px;
 }
 
-/* Default paragraph text formatting */
+
 p {
     font-size: 14.3px;
     line-height: 1.1;
     margin: 12px 0;
 }
 
-/* Second paragraph: centered white box with green border */
+/* Paragraph 2  */
 #paragraph2 {
     width: 47%;
     padding: 20px 40px;
@@ -38,7 +38,7 @@ p {
     margin-bottom: 15px;
 }
 
-/* Blue highlighted paragraphs */
+/* Blue highlight paragraphs */
 .blue {
     background-color: #030e75;
     color: white;
@@ -48,7 +48,7 @@ p {
     line-height: 1.6;
 }
 
-/* Ordered list formatting with leading zeros */
+/* Ordered list formattings */
 ol {
     list-style-type: decimal-leading-zero;
     padding-left: 25px;
@@ -56,19 +56,19 @@ ol {
     margin-bottom: 0;
 }
 
-/* Default hyperlink appearance */
+/*  hyperlink appearance */
 a {
     color: #7a1fa2;
     text-decoration: underline;
 }
 
-/* Special styling for links pointing to W3Schools */
+/* w3 schools  */
 a[href*="w3schools"] {
     color: #1b7f1b;
     font-weight: bold;
 }
 
-/* Table layout with collapsed borders */
+/* Table layout */
 table {
     border-collapse: collapse;
     width: 720px;
